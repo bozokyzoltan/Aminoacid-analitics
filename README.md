@@ -1,4 +1,4 @@
-# Aminoacid-analyzes
+# Aminoacid-analitics
 Convert, collect and analyze Aminoacid analyzes data
 
 To run the program (batteries are included):
