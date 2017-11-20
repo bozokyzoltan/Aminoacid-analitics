@@ -3,6 +3,8 @@
 """
 Created by Zoltan Bozoky on 2015.04.17.
 
+DUV
+
 """
 
 from aa_data import AminoacidAnalyzes_file
